@@ -108,7 +108,7 @@ While building this project, I got practical experience with:
 
 ![Swagger Home](Screenshots/swagger-home.png)
 
-This screenshot shows all available API endpoints including Authentication, Project Management, Task Management, User Profile, and Dashboard APIs.
+This screenshot shows all the available API endpoints of the application, including Authentication, Project Management, Task Management, User Profile, and Dashboard APIs.
 
 ---
 
@@ -116,7 +116,7 @@ This screenshot shows all available API endpoints including Authentication, Proj
 
 ![Project Response](Screenshots/project-response.png)
 
-This endpoint returns project details along with task statistics such as completion percentage, total tasks, completed tasks, and pending tasks.
+This API returns complete project information along with task progress details such as completion percentage, total tasks, completed tasks, and pending tasks.
 
 ---
 
@@ -124,7 +124,7 @@ This endpoint returns project details along with task statistics such as complet
 
 ![Dashboard Response](Screenshots/dashboard-response.png)
 
-Dashboard API provides overall statistics including total projects, task counts, project status distribution, and task progress tracking.
+This API provides an overview of project and task statistics, helping users quickly track overall progress and current status.
 
 ---
 
