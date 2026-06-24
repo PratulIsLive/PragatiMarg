@@ -108,7 +108,7 @@ While building this project, I got practical experience with:
 
 ![Swagger Home](Screenshots/swagger-home.png)
 
-This screenshot shows all the APIs available in the application.
+This screenshot shows all the available API endpoints of the application, including Authentication, Project Management, Task Management, User Profile, and Dashboard APIs.
 
 ---
 
@@ -116,7 +116,7 @@ This screenshot shows all the APIs available in the application.
 
 ![Project Response](Screenshots/project-response.png)
 
-This API returns project information along with task progress details.
+This API returns complete project information along with task progress details such as completion percentage, total tasks, completed tasks, and pending tasks.
 
 ---
 
@@ -124,7 +124,7 @@ This API returns project information along with task progress details.
 
 ![Dashboard Response](Screenshots/dashboard-response.png)
 
-This API shows overall project and task statistics.
+This API provides an overview of project and task statistics, helping users quickly track overall progress and current status.
 
 ---
 
